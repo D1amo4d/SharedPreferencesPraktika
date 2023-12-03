@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="print_Text">Ведите текст</string>
+    <string name="save">Save</string>
+    <string name="data">data</string>
+    <string name="of">Of</string>
+</resources>
